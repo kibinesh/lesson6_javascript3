@@ -4,19 +4,17 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 1, 2018
 
 ### Student Name:  
-(First and Last Name)
+Kibinesh Fulas
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+This projects uses external JavaScript file to display and navigate through image gallery.
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kibinesh.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to populate images on a web page using for loop in JavaScript.
+2. How to add eventlisteners to buttons to respond to users action. In this case case prev and next arrows and a show button. 
+3. How to create an element and attach it to a node in JavaScript.
